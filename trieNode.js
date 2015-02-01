@@ -1,5 +1,5 @@
 const rlp = require('rlp'),
-  Sha3 = require('sha3');
+  Sha3 = require('./sha3');
 
 var internals = {};
 
